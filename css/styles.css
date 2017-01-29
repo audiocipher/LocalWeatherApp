@@ -1,0 +1,78 @@
+body {
+  background-color: white;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  font-family: Georgia;
+  letter-spacing: 0.05em; }
+
+.additional {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Additional.jpg"); }
+
+.atmosphere {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Atmosphere.jpg"); }
+
+.clear {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Clear.jpg"); }
+
+.clouds {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Clouds.jpg"); }
+
+.drizzle {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Drizzle.jpg"); }
+
+.extreme {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Extreme.jpg"); }
+
+.rain {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Rain.jpg"); }
+
+.snow {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Snow.jpg"); }
+
+.thunderstorm {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Thunderstorm.jpg"); }
+
+.other {
+  background-color: black; }
+
+#title {
+  margin-top: 5em; }
+  #title h1 {
+    font-size: 6em;
+    letter-spacing: 0.05em; }
+
+#location {
+  font-size: 3.5em; }
+
+#temperature, #units {
+  font-size: 3.5em; }
+
+#condition {
+  font-size: 2.7em; }
+
+#icon {
+  font-size: 2.7em; }
+
+#credits {
+  margin-top: 9em; }
+  #credits h5 {
+    font-size: 1.3em;
+    font-style: italic; }
+    #credits h5 span {
+      color: #ffff99; }
+
+#temperature {
+  display: inline-block;
+  width: 1.3em;
+  text-align: right; }
+
+#units {
+  background-color: transparent;
+  border: none;
+  color: #ffff99;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer; }
+
+/*# sourceMappingURL=styles.css.map */
