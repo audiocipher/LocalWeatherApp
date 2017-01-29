@@ -73,6 +73,7 @@ body {
   color: #ffff99;
   text-align: center;
   text-decoration: none;
-  cursor: pointer; }
+  cursor: pointer;
+  margin-left: 0.2em; }
 
 /*# sourceMappingURL=styles.css.map */
